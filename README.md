@@ -17,8 +17,8 @@ This repository provides a set of scripts designed to help administrators quickl
 
 1. **Clone this repository**
    ```powershell
-   git clone https://github.com/<your-org>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/shoganaich/stig-powershell-remediations
+   cd stig-powershell-remediations
    ```
 
 2. **Review the scripts**  
