@@ -33,7 +33,7 @@ This repository provides a set of scripts designed to help administrators quickl
 ## Notes
 - Always **test in a non-production environment** before applying changes to production systems.
 - Some STIG rules may require manual validation or additional tools.
-- Refer to the official [DISA STIG site](https://public.cyber.mil/stigs/) for the latest guidance.
+- Refer to the official [DISA STIG site](https://www.cyber.mil/stigs/) for the latest guidance.
 
 ---
 
