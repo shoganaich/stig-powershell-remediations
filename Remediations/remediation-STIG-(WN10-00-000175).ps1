@@ -6,7 +6,7 @@
     Implements STIG control:
       - STIG-ID     : WN10-00-000175
       - Requirement : The Secondary Logon service must be disabled on Windows 10.
-    The script stops the service if running and sets its startup type to Disabled.
+    The script disable the Secondary Logon service (It is required to restart the machine).
 
 .NOTES
     Author          : Victor Cardoso
@@ -22,6 +22,5 @@
     # Disables the Secondary Logon service immediately.
 #>
 
-# Stop and disable the Secondary Logon service
-Stop-Service seclogon -Force
+# Disable the Secondary Logon service
 Set-Service seclogon -StartupType Disabled
