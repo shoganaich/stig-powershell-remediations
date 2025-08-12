@@ -20,6 +20,12 @@
 .EXAMPLE
     PS C:\> .\Remediation-STIG-WN10-00-000175.ps1
     # Disables the Secondary Logon service immediately.
+
+.TESTED
+    Date(s) Tested  : 2025-08-12
+    Tested By       : Victor Cardoso
+    Systems Tested  : Windows 10 Pro
+    PowerShell Ver. : 7.2
 #>
 
 # Disable the Secondary Logon service
