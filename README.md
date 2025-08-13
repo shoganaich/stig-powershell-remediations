@@ -6,9 +6,9 @@ This repository provides a set of scripts designed to help administrators quickl
 --- 
 
 ## Requirements
-- Windows PowerShell 5.1 or PowerShell 7+
+- Windows PowerShell 7+
 - Administrative privileges
-- Tested on Windows 10 / 11
+- Tested on Windows 10 22H2
 - Access to relevant DISA STIG benchmark files for reference
 
 ---
@@ -26,7 +26,7 @@ This repository provides a set of scripts designed to help administrators quickl
 
 3. **Run a remediation**
    ```powershell
-   .\Remediate-STIG-XXXXXXXXXXXXXXXXXXXXX.ps1
+   .\remediation-STIG-(XXXXXXXXXXXXXXXXXXX).ps1
    ```
 ---
 
