@@ -20,13 +20,13 @@
     STIG-ID         : WN10-00-000155
 
 .EXAMPLE
-    PS C:\> .\Remediation-STIG-WN10-00-000155.ps1
+    PS C:\> .\remediation-STIG-(WN10-00-000155).ps1
     # Disables PowerShell 2.0 features if enabled; does not restart.
 
 .TESTED
     Date(s) Tested  : 2025-08-11
     Tested By       : Victor Cardoso
-    Systems Tested  : Windows 10 Pro
+    Systems Tested  : Windows 10 Pro 22H2
     PowerShell Ver. : 7.2
 #>
 

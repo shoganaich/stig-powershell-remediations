@@ -23,13 +23,13 @@
     STIG-ID         : WN10-00-000145
 
 .EXAMPLE
-    PS C:\> .\Remediation-STIG-WN10-00-000145.ps1
+    PS C:\> .\remediation-STIG-(WN10-00-000145).ps1
     # Sets DEP to OptOut mode for the current boot entry.
 
 .TESTED
     Date(s) Tested  : 2025-08-12
     Tested By       : Victor Cardoso
-    Systems Tested  : Windows 10 Pro
+    Systems Tested  : Windows 10 Pro 22H2
     PowerShell Ver. : 7.2
 #>
 

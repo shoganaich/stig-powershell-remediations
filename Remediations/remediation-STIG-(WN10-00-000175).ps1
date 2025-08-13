@@ -18,13 +18,13 @@
     STIG-ID         : WN10-00-000175
 
 .EXAMPLE
-    PS C:\> .\Remediation-STIG-WN10-00-000175.ps1
+    PS C:\> .\remediation-STIG-(WN10-00-000175).ps1
     # Disables the Secondary Logon service immediately.
 
 .TESTED
     Date(s) Tested  : 2025-08-12
     Tested By       : Victor Cardoso
-    Systems Tested  : Windows 10 Pro
+    Systems Tested  : Windows 10 Pro 22H2
     PowerShell Ver. : 7.2
 #>
 
