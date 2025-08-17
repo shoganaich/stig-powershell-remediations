@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Copy of Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner" src="https://github.com/user-attachments/assets/fe8e5048-aa4e-445f-a0a6-432f2c8546a7" />
+
 # DISA STIG PowerShell Remediations
 
 PowerShell scripts to automate DISA STIG compliance remediations for Windows systems.  
