@@ -27,7 +27,7 @@
     Date(s) Tested  : 2025-08-11
     Tested By       : Victor Cardoso
     Systems Tested  : Windows 10 Pro 22H2
-    PowerShell Ver. : 7.2
+    PowerShell Ver. : 5.1
 #>
 
 # Disable PowerShell 2.0 and its root component

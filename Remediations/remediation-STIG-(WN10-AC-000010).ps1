@@ -28,7 +28,7 @@
     Date(s) Tested  : 2025-08-14
     Tested By       : Victor Cardoso
     Systems Tested  : Windows 10 Pro 22H2
-    PowerShell Ver. : 7.2
+    PowerShell Ver. : 5.1
 #>
 
 function Write-Info($m){ Write-Host "[INFO]  $m" -ForegroundColor Cyan }

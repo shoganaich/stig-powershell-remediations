@@ -26,7 +26,7 @@
     Date(s) Tested  : 2025-08-13
     Tested By       : Victor Cardoso
     Systems Tested  : Windows 10 Pro 22H2
-    PowerShell Ver. : 7.2
+    PowerShell Ver. : 5.1
 #>
 
 # Disable "Password never expires" for all ENABLED local users

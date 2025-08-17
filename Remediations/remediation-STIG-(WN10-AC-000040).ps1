@@ -25,7 +25,7 @@
     Date(s) Tested  : 2025-08-17
     Tested By       : Victor Cardoso
     Systems Tested  : Windows 10 Pro 22H2
-    PowerShell Ver. : 7.2
+    PowerShell Ver. : 5.1
 #>
 $seceditFile = "$env:TEMP\secpol.inf"
 $logFile     = "$env:TEMP\secpol.log"
