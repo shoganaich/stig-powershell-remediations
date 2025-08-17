@@ -16,7 +16,7 @@
     LinkedIn        : linkedin.com/in/victordccardoso
     GitHub          : github.com/shoganaich
     Date Created    : 2025-08-13
-    Last Modified   : 2025-08-13
+    Last Modified   : 2025-08-14
     Version         : 1.0
     STIG-ID         : WN10-AC-000010
 
@@ -25,7 +25,7 @@
     # Sets Account lockout threshold to 3 on a standalone machine.
 
 .TESTED
-    Date(s) Tested  : 2025-08-13
+    Date(s) Tested  : 2025-08-14
     Tested By       : Victor Cardoso
     Systems Tested  : Windows 10 Pro 22H2
     PowerShell Ver. : 7.2
