@@ -2,17 +2,19 @@
 
 # DISA STIG PowerShell Remediations
 
-PowerShell scripts to automate DISA STIG compliance remediations for Windows systems.  
-This repository provides a set of scripts designed to help administrators quickly apply required security configurations and maintain compliance with Department of Defense (DoD) standards.
+PowerShell scripts to help automate **DISA STIG compliance remediations** for Windows systems.  
 
---- 
+>📌 **Important Note**: This repository was created during an **internship project** as part of a learning and practical exercise.  
+>It is **not a large-scale professional open-source project** like 7-Zip or other enterprise-grade tools.  
+>Instead, it is a pack of useful scripts that may assist administrators or learners working with STIG compliance.  
+
+---
 
 ## Requirements
-- Windows PowerShell 7+
-- Administrative privileges
-- Tested on Windows 10 22H2
-- Access to relevant DISA STIG benchmark files for reference
-
+- Windows PowerShell **5+**
+- **Administrative privileges**
+- Tested on **Windows 10 22H2**
+- Access to relevant **DISA STIG benchmark files** for reference
 ---
 
 ## Usage
